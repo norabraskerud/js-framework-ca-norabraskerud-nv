@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+Please provide your login credentials for assessment.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Example
 
-## Available Scripts
+username: norabraskerud
+password: NoraPassword1234
 
 In the project directory, you can run:
 
