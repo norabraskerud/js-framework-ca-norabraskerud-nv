@@ -1,0 +1,39 @@
+.icon {
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  /* margin: 12px; */
+}
+
+/* ARROW */
+.arrow {
+  fill: none;
+  stroke: var(--black);
+  stroke-width: 1;
+  stroke-miterlimit: 10;
+}
+
+/* ARROW SMALL */
+.arrow-small .st0 {
+  fill: none;
+  stroke: var(--black);
+  stroke-width: 0.5;
+  stroke-miterlimit: 10;
+}
+
+/* BAR OPEN */
+.bar-open {
+  display: block;
+}
+
+.bar-open rect {
+  fill: getColor(color01);
+}
+
+/* BAR CLOSED */
+.bar-closed .st0 {
+  fill: none;
+  stroke: hsl(24, 10%, 20%);
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+}
